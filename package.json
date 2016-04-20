@@ -1,0 +1,26 @@
+{
+  "name": "test-broadcast-beacon",
+  "version": "1.0.0",
+  "description": "I just want to save this code in github no any big deal here..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayeshbhalodia/test-broadcast-beacon.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Jayeshbhalodia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayeshbhalodia/test-broadcast-beacon/issues"
+  },
+  "homepage": "https://github.com/jayeshbhalodia/test-broadcast-beacon#readme",
+  "dependencies": {
+    "bleacon": "^0.4.0",
+    "bleno": "^0.3.5"
+  }
+}
